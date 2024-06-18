@@ -18,4 +18,4 @@ RGB_MATRIX_ENABLE = no     # Enable keyboard RGB matrix (do not use together wit
 RGB_MATRIX_DRIVER = WS2812  # RGB matrix driver support
 
 SPLIT_KEYBOARD = yes
-VIA_ENABLE=yes
+# VIA_ENABLE=yes // can't because just 4 layer for via
